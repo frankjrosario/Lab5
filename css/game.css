@@ -1,0 +1,24 @@
+.background    { background: rgb(52, 166, 251);
+                 table-layout: fixed;
+                 border-spacing: 0;
+                }
+.background { background-image: url("http://pixelartmaker.com/art/dbd7f483601cd06.png");
+                                                              }
+.background td { padding: 0;          }
+.lava          { background: rgb(200, 255, 100);
+                  background-image: url("https://i.giphy.com/media/Jd3YqxseQXjmU/source.gif");
+                  background-size: 48px 48px;
+                                                        }
+.wall          { background: grey;
+                outline: 1px solid black;
+                                }
+.floater       { background: cyan;
+                  background-image: url("https://vignette.wikia.nocookie.net/geometry-dash/images/9/99/Cube061.png/revision/latest?cb=20150829173106");
+                  background-size: 22px 28px;
+                  background-position:left center;
+                  background-blend-mode:multiply;
+
+              outline: 4px solid black;   }
+.game {
+  position: relative;
+}
